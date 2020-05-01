@@ -26,3 +26,6 @@ key-build*
 TAGS*~
 git-src
 .git-credentials
+git rm --cached package/lean/luci-app-ssr-plus/ -r
+git rm --cached package/lean/lua-maxminddb/ -r
+git rm --cached package/lean/luci-app-vssr/ -r
